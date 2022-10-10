@@ -1,2 +1,5 @@
 # Quantitative-Risk
-Repo for Quant Risk functions 
+
+Python files include different risk measurements and option pricing models 
+
+-> 

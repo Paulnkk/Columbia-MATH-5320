@@ -4,7 +4,7 @@ Python files include different functions for risk measurements and option pricin
 
 -> risk1: BS model, BS delta, Expected shortfall, p-VaR
 
--> risk2: GBM for 1 stock and 2 stock (mu and sigma calibration), Parametric VaR, Historical VaR, Historical parameter calibration, Exponential weightening
+-> risk2: GBM for 1 stock and 2 stock port (mu and sigma calibration), Parametric VaR, Historical VaR, Historical parameter calibration, Exponential weightening
 
 -> risk3: Drift and vola calibration (2, 5 and 10 year window and exponential average) for GBM, hazard rate modeling (constant - exponentially distributed and variable), normal distributed Portfolios and GBM port VaR and ES estimation
 

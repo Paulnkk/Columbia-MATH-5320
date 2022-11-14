@@ -8,4 +8,4 @@ Python files include different functions for risk measurements and option pricin
 
 -> risk3: Drift and volatility calibration (2, 5 and 10 year window and exponential average) for GBM, hazard rate modeling (constant - exponentially distributed and variable), normal distributed Portfolios and GBM port VaR and ES estimation
 
--> risk4: Merton Model for credit default risk, Single stocks GBM VaR and ES compared to GBM Portfolio VaR and ES (5 year drift and vola calibration)
+-> risk4: Merton Model for credit default risk, single stocks GBM VaR and ES compared to GBM Portfolio VaR and ES (5 year drift and vola calibration)

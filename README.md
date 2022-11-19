@@ -1,6 +1,6 @@
 # Quantitative-Risk
 
-Python files include different functions for risk measurements and option pricing models 
+Python files include different functions for risk measurements of options and stocks positions as well as option pricing and credit default risk models 
 
 -> risk1: BS model, BS delta, Expected shortfall, p-VaR
 

@@ -2,7 +2,7 @@
 
 Python files include different functions for risk measurements of options and stocks positions as well as option pricing and credit default risk models 
 
--> risk1: BS model, BS delta, Expected shortfall, p-VaR
+-> risk1: BS model, BS delta, Expected shortfall, pVaR
 
 -> risk2: GBM for 1 stock and 2 stock portfolio (mu and sigma calibration), Parametric VaR, Historical VaR, Historical parameter calibration, Exponential weightening
 

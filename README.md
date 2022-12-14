@@ -11,3 +11,5 @@ Python files include different functions for risk measurements of options and st
 -> risk4: Merton Model for credit default risk, single stocks GBM VaR and ES compared to GBM Portfolio VaR and ES (5 year drift and volatility calibration)
 
 -> risk5: Different VaR and ES calculations for long and short stock portfolio hedged by Options. 
+
+-> 5320_fin_proj.ipynb: Final project for Risk calculation system of option and stock positions, current level: get stock prices and create portfolio dataframe for daily prices
